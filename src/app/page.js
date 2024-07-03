@@ -12,6 +12,7 @@ export default function Home() {
         <div className="mx-auto w-[87%] max-w-[350px] overflow-hidden rounded-xl">
           <div className="relative aspect-square h-[140px] w-full">
             <Image
+              priority
               src="/images/bg-pattern-card.svg"
               alt="bg-pattern-top"
               fill
@@ -20,6 +21,7 @@ export default function Home() {
           <div className="flex flex-col items-center bg-white">
             <div className="relative -mt-[52px] w-[100px] overflow-hidden rounded-full bg-white p-1">
               <Image
+                priority
                 className="aspect-square w-[99%] rounded-full"
                 src="/images/image-victor.jpg"
                 alt="image-victor"
