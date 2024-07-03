@@ -1,36 +1,29 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Profile card component
 
-## Getting Started
+Repositorio con el código solución al desafío [Profile card component](https://www.frontendmentor.io/challenges/profile-card-component-cfArpWshJ) de Front End Mentor.
 
-First, run the development server:
+## Challenge
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+The challenge is to build out this profile card component and get it looking as close to the design as possible.
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## Diseños a replicar
 
-You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
+### Mobile Design
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+![Mobile Design Image](./screenshots/mobile-design.jpg)
 
-## Learn More
+### Desktop Design
 
-To learn more about Next.js, take a look at the following resources:
+![Desktop Design Image](./screenshots/desktop-design.webp)
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+## Proyecto Finalizado
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+Imagenes de mi proyecto pixel perfect:
 
-## Deploy on Vercel
+### Mobile Design
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+![Mobile Image](./screenshots/waldo-mobile.webp)
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+### Desktop Design
+
+![Desktop Image](./screenshots/waldo-desktop.webp)

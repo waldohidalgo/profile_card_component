@@ -7,10 +7,15 @@ module.exports = {
   ],
   theme: {
     extend: {
+      colors: {
+        darkCyan: "hsl(185, 75%, 39%)",
+        veryDarkDesaturatedBlue: "hsl(229, 23%, 23%)",
+        darkGrayishBlue: "hsl(227, 10%, 46%)",
+        darkGray: "hsl(0, 0%, 59%)",
+      },
       backgroundImage: {
-        "gradient-radial": "radial-gradient(var(--tw-gradient-stops))",
-        "gradient-conic":
-          "conic-gradient(from 180deg at 50% 50%, var(--tw-gradient-stops))",
+        patternTop: "url('/images/bg-pattern-top.svg')",
+        patternBottom: "url('/images/bg-pattern-bottom.svg')",
       },
     },
   },
